@@ -1,16 +1,21 @@
-## Hi there 👋
+Central Inspirations:
 
-<!--
-**josinovmota/josinovmota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## https://github.com/hitoshyamamoto
 
-Here are some ideas to get you started:
+Almost everything :P the man is BRABO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## https://github.com/TiberiusNemesis
+
+Look for some keywords
+
+## https://github.com/PoorlyDefinedBehaviour
+
+Books list ( great idea )
+
+## https://github.com/xTecna
+
+Browse project idea ( huge tecna )
+
+---
+
+The main structure should come from Hitoshyamamoto.
