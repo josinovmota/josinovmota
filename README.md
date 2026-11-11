@@ -1,30 +1,6 @@
-Central Inspirations:
-
-## https://github.com/hitoshyamamoto
-
-Almost everything :P the man is BRABO
-
-## https://github.com/TiberiusNemesis
-
-Look for some keywords
-
-## https://github.com/PoorlyDefinedBehaviour
-
-Books list ( great idea )
-
-## https://github.com/xTecna
-
-Browse project idea ( huge tecna )
-
----
-
-The main structure should come from Hitoshyamamoto.
-
----
-
 # Josino Vieira Mota
 
-Self-taught data science enthusiast and student. I'm currently studying through books and a guided hands-on roadmap created by Anthropic Ai Assistant Claude. You can look at my readed books list here: (Books List)
+Self-taught data science enthusiast and student. I'm currently studying through books and a guided hands-on roadmap created by Anthropic Ai Assistant Claude. You can look at my readed books list here: (Books List). Feel free to open an issue if you find any error in my repositories
 
 ---
 
